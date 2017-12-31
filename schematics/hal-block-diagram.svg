@@ -2,6 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -17,7 +18,24 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="hal-block-diagram.svg">
   <defs
-     id="defs4" />
+     id="defs4">
+    <linearGradient
+       id="linearGradient5709"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5711" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4268"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4270" />
+    </linearGradient>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,7 +44,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="368.2871"
+     inkscape:cx="206.15762"
      inkscape:cy="589.08768"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -44,7 +62,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -63,136 +81,121 @@
          id="tspan4194"
          x="272.93591"
          y="66.453316">MAG Labratory HAL</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="94.951874"
-       y="158.37724"
-       id="text4138"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="94.951874"
-         y="158.37724"
-         id="tspan4142">Front Door Sensor</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="94.951874"
-       y="255.06203"
-       id="text4146"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4148"
-         x="94.951874"
-         y="255.06203">Roll Up Door Sensor</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="94.951874"
-       y="355.07684"
-       id="text4150"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4152"
-         x="94.951874"
-         y="355.07684">Motion Sensor</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="95.781952"
-       y="451.76163"
-       id="text4154"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4156"
-         x="95.781952"
-         y="451.76163">Open Closed Switch</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="96.904999"
-       y="549.91608"
-       id="text4158"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4160"
-         x="96.904999"
-         y="549.91608">Temprature Sensor</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="482.96252"
-       y="330.10312"
-       id="text4162"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4164"
-         x="482.96252"
-         y="330.10312">Web Server</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="96.651093"
-       y="650.32153"
-       id="text4188"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4190"
-         x="96.651093"
-         y="650.32153">Access Control Sensor</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="505.04749"
-       y="276.56506"
-       id="text4196"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4198"
-         x="505.04749"
-         y="276.56506">Rasp Pi</tspan></text>
-    <rect
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4200"
-       width="203.04066"
-       height="176.7767"
-       x="442.37717"
-       y="207.87468" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 289.84414,153.32643 442.88225,298.28332"
-       id="path4202"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 301.96597,249.29093 140.91628,48.99239"
-       id="path4204"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 253.47865,350.30618 189.4036,-52.02286"
-       id="path4206"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 306.00658,446.27067 442.88225,298.28332"
-       id="path4208"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 297.92536,545.26562 442.88225,298.28332"
-       id="path4210"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 327.21978,642.24027 442.88225,298.28332"
-       id="path4212"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+    <g
+       id="g5745"
+       transform="translate(19.84191,0)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4162"
+         y="391.72244"
+         x="499.12497"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="391.72244"
+           x="499.12497"
+           id="tspan4164"
+           sodipodi:role="line">Web Server</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4188"
+         y="452.33163"
+         x="54.294331"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="452.33163"
+           x="54.294331"
+           id="tspan4190"
+           sodipodi:role="line">Access Control</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4196"
+         y="338.18439"
+         x="521.20996"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="338.18439"
+           x="521.20996"
+           id="tspan4198"
+           sodipodi:role="line">Rasp Pi</tspan></text>
+      <rect
+         y="269.49399"
+         x="458.53961"
+         height="176.7767"
+         width="203.04066"
+         id="rect4200"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path4212"
+         d="m 371.6665,447.28083 86.36804,-84.34775 -85.35789,-70.20559"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4159"
+         y="246.26045"
+         x="54.548237"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan4163"
+           y="246.26045"
+           x="54.548237"
+           sodipodi:role="line">Open Switch (Open / Closed)</tspan><tspan
+           id="tspan4165"
+           y="271.26044"
+           x="54.548237"
+           sodipodi:role="line">Front Door (Open / Closed)</tspan><tspan
+           id="tspan4167"
+           y="296.26044"
+           x="54.548237"
+           sodipodi:role="line">Pod Bay Door (Open / Closed)</tspan><tspan
+           id="tspan4169"
+           y="321.26044"
+           x="54.548237"
+           sodipodi:role="line">Office Motion	(Movement)</tspan><tspan
+           id="tspan4171"
+           y="346.26044"
+           x="54.548237"
+           sodipodi:role="line">Shop Motion	(Movement)</tspan><tspan
+           id="tspan4197"
+           y="371.26044"
+           x="54.548237"
+           sodipodi:role="line">Temperature (°C/°F)</tspan><tspan
+           id="tspan4175"
+           y="396.26044"
+           x="54.548237"
+           sodipodi:role="line" /></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4159-6"
+         y="212.00647"
+         x="53.483784"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-weight:bold"
+           id="tspan4197-8"
+           y="212.00647"
+           x="53.483784"
+           sodipodi:role="line">Sensor Array</tspan><tspan
+           style="font-weight:bold"
+           id="tspan4175-2"
+           y="237.00647"
+           x="53.483784"
+           sodipodi:role="line" /></text>
+      <rect
+         y="187.81474"
+         x="44.589848"
+         height="204.77472"
+         width="327.0032"
+         id="rect4200-7"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="410.81427"
+         x="42.830391"
+         height="67.88237"
+         width="328.50174"
+         id="rect4200-7-5"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
   </g>
 </svg>
