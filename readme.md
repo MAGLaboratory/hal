@@ -1,7 +1,9 @@
 **Readme**
+
 This repository is meant to document the current state and history of the **HAL** computer installed at *MAG Laboratory*. If you are a current member of MAG Laboratory and find an error in this repository you are highly encouraged to fork it, fix it and push.  Don’t be afraid to take ownership and clobber what has come before, we can always revert if you screw up.
 
 **Hardware**
+
 The HAL system consists of the following hardware:
 * Raspberry PI V?
 * Open Access 4.0
@@ -11,14 +13,17 @@ The HAL system consists of the following hardware:
 * Sensors
 
 **Roadmap**
+
 HAL is foolproof and incapable of error, therefor there is no need for changes.
 
 **History**
+
 This repository is the fallout of a [discussion on the MAG Lab google group]( https://groups.google.com/forum/#!topic/maglaboratory/54QvicI6HVY). In the event that the original thread is purged the gist of it is captured here:
 
 “It seems we are having some issues with HAL and our reading of HAL in order to report an accurate "open" or "closed" on the website.  Hal monitors its different input (motion and reed switches for doors, as well as temperature), hal also writes to the access controll board (custom shield that reads the rfid scanner, and opens/locks the door automatically) lists of rfid numbers that can open the door and allows remote opening of the space for certain situations.
 We have been having issues with false positives and negatives for the space status.  We need some help getting hal and the website to read status of the sensors and report a true status of the space as open or closed.  This involves correct collection and reporting of the sensors from hal to the website and writing code on the website to interpret the data and report based off of some logic.”
 can anyone help with this?”
+
 --Trent
 
 “It could be possible that a human did not turn the Open Switch to the off position and the broken Pod Bay Door which consistently read open generated a condition where the space was falsely open.
